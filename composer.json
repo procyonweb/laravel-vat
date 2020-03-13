@@ -1,6 +1,6 @@
 {
-  "name": "dannyvankooten/laravel-vat",
-  "description": "VAT library for Laravel",
+  "name": "procyonweb/laravel-vat",
+  "description": "VAT library for Laravel, forked and updated from dannyvankooten/laravel-vat",
   "keywords": ["laravel", "vat"],
   "license": "MIT",
   "authors": [
